@@ -1,2 +1,3 @@
-# projeto-inicial-de-adm
-a pra fazer um negócio de adm
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+https://github.com/seu-usuario/seu-repositorio.git
